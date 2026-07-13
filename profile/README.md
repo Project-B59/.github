@@ -1,4 +1,4 @@
-# ProjectB59
+# Modulo 59
 
 **A retro arcade + Solana ecosystem built for sovereignty and fun.**
 
