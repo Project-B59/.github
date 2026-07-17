@@ -1,8 +1,8 @@
-# Modulo 59
+# nodeB59
 
 **A retro arcade + Solana ecosystem built for sovereignty and fun.**
 
-NodeB59 is a self-hosted gaming arcade powered by **Buckazoids** (native Solana token). Free to play; 1 BZ to enter tournaments. Monthly prize pools split 50/30/20 across the top 3 winners.
+NodeB59 is a self-hosted gaming arcade powered by **Buckazoids** (native Solana token). Free to play; 1 BUCKAZOIDS to enter tournaments. Monthly prize pools split 50/30/20 across the top 3 winners.
 
 ## Core Projects
 
